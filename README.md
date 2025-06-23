@@ -9,4 +9,4 @@ This project uses TextBlob for sentiment analysis of Amazon product reviews.
 
 ## How to Run
 Open the notebook in Google Colab and run all cells.
-Use the csv file provided.
+Download CSV file form kaggle( Link: 'https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products')
